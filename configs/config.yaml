@@ -1,0 +1,9 @@
+directories:
+  - /home/ampar/Workspace/Monitoring/
+    enabled: true
+
+  - /home/ampar/Workspace/Monitoring2/
+    enabled: true
+
+watcher:
+  debounce: 5s
